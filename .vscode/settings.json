@@ -1,0 +1,12 @@
+{
+    "html.autoClosingTags": false,
+    "html.format.preserveNewLines": false,
+    "typescript.autoClosingTags": false,
+    "javascript.autoClosingTags": false,
+   
+    "editor.formatOnSaveMode": "modifications",
+    "html.format.contentUnformatted": "",
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true
+   
+}

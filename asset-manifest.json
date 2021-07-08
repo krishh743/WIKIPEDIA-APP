@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WIKIPEDIA-APP/static/css/main.a6b5abdc.chunk.css",
+    "main.js": "/WIKIPEDIA-APP/static/js/main.221e4b25.chunk.js",
+    "main.js.map": "/WIKIPEDIA-APP/static/js/main.221e4b25.chunk.js.map",
+    "runtime-main.js": "/WIKIPEDIA-APP/static/js/runtime-main.dc8dcc54.js",
+    "runtime-main.js.map": "/WIKIPEDIA-APP/static/js/runtime-main.dc8dcc54.js.map",
+    "static/js/2.fdb3ddae.chunk.js": "/WIKIPEDIA-APP/static/js/2.fdb3ddae.chunk.js",
+    "static/js/2.fdb3ddae.chunk.js.map": "/WIKIPEDIA-APP/static/js/2.fdb3ddae.chunk.js.map",
+    "static/js/3.619ece76.chunk.js": "/WIKIPEDIA-APP/static/js/3.619ece76.chunk.js",
+    "static/js/3.619ece76.chunk.js.map": "/WIKIPEDIA-APP/static/js/3.619ece76.chunk.js.map",
+    "index.html": "/WIKIPEDIA-APP/index.html",
+    "static/css/main.a6b5abdc.chunk.css.map": "/WIKIPEDIA-APP/static/css/main.a6b5abdc.chunk.css.map",
+    "static/js/2.fdb3ddae.chunk.js.LICENSE.txt": "/WIKIPEDIA-APP/static/js/2.fdb3ddae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc8dcc54.js",
+    "static/js/2.fdb3ddae.chunk.js",
+    "static/css/main.a6b5abdc.chunk.css",
+    "static/js/main.221e4b25.chunk.js"
+  ]
+}
